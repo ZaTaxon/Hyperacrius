@@ -6,4 +6,6 @@
 
 This repository contains the following file:
 
+Hyperacrius_alignment.fasta - nucleotide aligment of all analysed species
+
 
