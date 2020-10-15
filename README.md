@@ -10,3 +10,5 @@
 
 *H_fertilis_4909.gb* — annotated mitochondrial genome of *Hyperacrius fertilis* in genbank format
 
+*Insert_R_Y_to_aligment.py* — Python script to reaplace nucleotides to R/Y in 3rd position
+
